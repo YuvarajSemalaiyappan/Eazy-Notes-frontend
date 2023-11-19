@@ -142,7 +142,7 @@ function Register() {
                         <FontAwesomeIcon icon={faKey} className="fa-lg me-3" />
                         <div class="form-outline flex-fill mb-0">
                           <TextField
-                            label="Password"
+                            label="Re-Enter Password"
                             type="password"
                             name="password2"
                             className="form-control form-control-lg"
